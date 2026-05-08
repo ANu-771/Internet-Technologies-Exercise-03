@@ -138,8 +138,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Developed by **ISURU ANUPAMA**
-GitHub: [https://github.com/ANu-771](https://github.com/ANu-771)
+Developed by [ISURU ANUPAMA](https://github.com/ANu-771)
 
 ---
 
